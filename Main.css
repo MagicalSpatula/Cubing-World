@@ -1,0 +1,17 @@
+.container{
+color: red;
+}
+
+body{
+background-image: http://www.superiorwallpapers.com/download/melting-rubiks-cube-5120x3200.jpg
+}
+
+.description{
+color: yellow;
+}
+
+.resources{
+color: blue;
+font-size: 24px;
+font-family: "Comic Sans";
+}
